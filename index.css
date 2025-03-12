@@ -975,7 +975,13 @@ section{
     #blog .reel {
         margin: 0 10px;
     }
-
+    .top-nav span {
+        color: rgba(255, 200, 0, 0.891);
+        font-size: 1.5rem;
+    }
+    .top-nav p{
+        font-size: 1.1rem;
+    }
 
 
     #terms {
